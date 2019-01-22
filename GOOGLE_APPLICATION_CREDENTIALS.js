@@ -12,6 +12,7 @@ const storage = new Storage({
 
 // Makes an authenticated API request.
 
+
 storage
   .getBuckets()
   .then((results) => {
