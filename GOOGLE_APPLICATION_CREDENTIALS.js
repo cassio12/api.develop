@@ -1,4 +1,4 @@
- export default GOOGLE_APPLICATION_CREDENTIALS="~/Documentos/assistente-api/package.json"
+export default GOOGLE_APPLICATION_CREDENTIALS="~/Documentos/assistente-api/package.json"
 
 // Imports the Google Cloud client library.
 const Storage = require('@google-cloud/storage');
